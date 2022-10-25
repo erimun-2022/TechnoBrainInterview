@@ -3,7 +3,7 @@ package com.interview;
 public class Fibonacci {
 
 	/**
-	 * Function tat accepts a number and returns a number in that position
+	 * Function that accepts a number and returns a number in that position
 	 * 
 	 * @return
 	 */
