@@ -17,6 +17,9 @@ import java.util.stream.Collectors;
  */
 public class CSVReader {
 
+	/**
+	 * Function reads a log file of type csv, returns top ips
+	 */
 	public static List<String> returnCommonIpsInALog(int top, String logLocation) {
 
 		List<String> commonIps = new LinkedList<>();

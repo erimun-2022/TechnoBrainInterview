@@ -7,6 +7,10 @@ package com.interview;
  */
 public class ReverseString {
 
+	/**
+	 * Function receives a sentense inform of a String, returns a reversed
+	 * 
+	 */
 	public static String reverseSentense(String s) {
 
 		String rev = "";
